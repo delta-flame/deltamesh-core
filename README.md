@@ -2,13 +2,13 @@
 
 ## About
 
-A Python library designed to support best practices in data engineering when working with the Delta Mesh architecture. Initially developed for use in **Microsoft Fabric**.
+A Python library designed to support best practices in data engineering when working with the Delta Mesh architecture (Notebooks). Initially developed for use in **Microsoft Fabric**.
 
 ## Features
 
 - Simplifies updates to Delta Lake tables with built-in checks and default columns.
 - Provides a foundation for scalable and maintainable data pipelines.
-- Supports a growing range of use cases, including PySpark integration.
+- Supports a growing range of use cases.
 
 ## Status
 
